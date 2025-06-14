@@ -43,7 +43,7 @@ To build an intelligent chatbot using **Natural Language Processing (NLP)** with
 
      python chatbot_task3.py
 
-4.Sample Queries:
+ 4.Sample Queries:
 
   pgsql
 
