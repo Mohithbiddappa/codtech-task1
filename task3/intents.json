@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": ["Hello!", "Hi there!", "Hey!", "Greetings!"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "goodbye", "see you later", "take care"],
+      "responses": ["Goodbye!", "Take care!", "See you soon!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you", "thx"],
+      "responses": ["You're welcome!", "No problem!", "Anytime!"]
+    },
+    {
+      "tag": "name",
+      "patterns": ["what is your name", "who are you", "your name"],
+      "responses": ["I'm CodTech Bot, your virtual assistant!"]
+    },
+    {
+      "tag": "age",
+      "patterns": ["how old are you", "your age"],
+      "responses": ["I’m timeless, built with Python magic!"]
+    }
+  ]
+}
